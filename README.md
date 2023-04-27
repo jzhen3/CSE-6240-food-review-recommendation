@@ -32,7 +32,7 @@ To run the notebooks, you need to have the following software and libraries inst
 
 Any additional libraries specified in the notebooks.
 
-### Getting Started
+### Setting Up
 Clone the repository or download the notebooks to your local machine.
 Open a terminal or command prompt and navigate to the folder containing the notebooks.
 Run jupyter notebook to start the Jupyter Notebook server.
@@ -42,4 +42,5 @@ Open the desired notebook in your web browser and follow the instructions within
 
 After downloading the Food Reviews dataset mentioned above, place it in the appropriate directory in your local environment. Then, update the file paths in the source code to match your local directory structure. This will ensure that the code can access the dataset correctly when executed.
 
+### Getting Started
 Execute the code cells in order, from the beginning to the end of the notebook, by clicking "Run" or pressing Shift + Enter.
