@@ -22,7 +22,8 @@ To run the notebooks, you need to have the following software and libraries inst
 - Tensorflow
 - nltk
 - surprise
-Any additional libraries specified in the notebooks
+
+Any additional libraries specified in the notebooks.
 
 ### Getting Started
 Clone the repository or download the notebooks to your local machine.
