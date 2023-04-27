@@ -1,5 +1,19 @@
 # CSE-6240-food-review-recommendation
-This repository contains three Jupyter notebooks, each implementing a different recommendation system method. To run the notebooks and obtain results, simply execute the code cells from the beginning to the end.
+This repository contains three Jupyter notebooks, each implementing a different recommendation system method. To run the notebooks and obtain results, simply execute the code cells from the beginning to the end. 
+
+##Setting Up Local Directories for Data Access
+
+Please note that the local directories in the source code might be different from your own local setup. To properly run the code, you need to set up your directory to access the downloaded dataset from Kaggle.
+
+##Downloading the Dataset
+
+The dataset used for this project is the Amazon Fine Food Reviews dataset, which can be downloaded externally from Kaggle using the following link:
+
+Amazon Fine Food Reviews Dataset
+
+##Configuring the Directory
+
+After downloading the dataset, place it in the appropriate directory in your local environment. Then, update the file paths in the source code to match your local directory structure. This will ensure that the code can access the dataset correctly when executed.
 
 ---
 
