@@ -1,4 +1,4 @@
-# CSE-6240-food-review-recommendation
+# CS-6240-food-review-recommendation
 This repository contains three Jupyter notebooks, each implementing a different recommendation system method. To run the notebooks and obtain results, simply execute the code cells from the beginning to the end. The dataset used for this project is the Amazon Fine Food Reviews Dataset, which can be downloaded externally using the following link:
 
 https://www.dropbox.com/s/jm9lb705vk5itk9/Reviews.csv?dl=0
